@@ -1,0 +1,17 @@
+{
+  "name": "chendan/xdebug-proxy-integration",
+  "license": "Apache-2.0",
+  "authors": [
+    {
+      "name": "Tony Chen",
+      "email": "chendan316@gmail.com"
+    }
+  ],
+  "require": {
+    "php": ">=7",
+    "amphp/log": "^1.0.0"
+  },
+  "require-dev": {
+    "mougrim/php-xdebug-proxy": "^0.1.0"
+  }
+}
