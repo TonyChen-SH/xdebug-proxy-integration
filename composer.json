@@ -13,5 +13,11 @@
   },
   "require-dev": {
     "mougrim/php-xdebug-proxy": "^0.1.0"
+  },
+  "repositories": {
+    "packagist": {
+      "type": "composer",
+      "url": "https://packagist.phpcomposer.com"
+    }
   }
 }
